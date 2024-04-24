@@ -1,0 +1,32 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EFC20B7-3A1F-489A-BB69-2781C1D01CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EFC20B7-3A1F-489A-BB69-2781C1D01CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EFC20B7-3A1F-489A-BB69-2781C1D01CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EFC20B7-3A1F-489A-BB69-2781C1D01CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A0635FA-02B0-4B54-9601-998335419FD0}
+	EndGlobalSection
+EndGlobal
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLikeDB", "XMLikeDB\XMLikeDB.csproj", "{6EFC20B7-3A1F-489A-BB69-2781C1D01CBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLikeDB.Tests", "XMLikeDB.Tests\XMLikeDB.Tests.csproj", "{2B0D7F1D-3F7B-4A6A-9B6D-7B6D8C9E0A8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLikeDB.Pipelines", "XMLikeDB.Pipelines\XMLikeDB.Pipelines.csproj", "{3C6D9F8A-2F0C-4D6B-8A9A-5D2A7A8B9C4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLikeDB.Pipelines.Tests", "XMLikeDB.Pipelines.Tests\XMLikeDB.Pipelines.Tests.csproj", "{4F3E7A9B-8C0D-4C0C-9B4A-1C3A2B5D6E7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{DEMO_PROJECT_GUID}"
+EndProject

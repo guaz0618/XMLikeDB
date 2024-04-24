@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <table class="contacts">
+        <tr>
+            <td title="first-name">John</td>
+            <td title="last-name">Doe</td>
+            <td title="phone">12-3456-7890</td>
+            <td title="email">johndoe@example.com</td>
+        </tr>
+        <tr>
+            <td title="first-name">Jane</td>
+            <td title="last-name">Smith</td>
+            <td title="phone">9876543210</td>
+            <td title="email">janesmith@example.com</td>
+        </tr>
+        <tr>
+            <td title="first-name">Mike</td>
+            <td title="last-name">Johnson</td>
+            <td title="phone">5555555555</td>
+            <td title="email">mikejohnson@example.com</td>
+        </tr>
+        <tr>
+            <td title="first-name">Emily</td>
+            <td title="last-name">Davis</td>
+            <td title="phone">(11)11111111</td>
+            <td title="email">emilydavis@example.com</td>
+        </tr>
+        <tr>
+            <td title="first-name">David</td>
+            <td title="last-name">Brown</td>
+            <td title="phone">9999999999</td>
+            <td title="email">davidbrown@example.com</td>
+        </tr>
+        <tr>
+            <td title="first-name">Sarah</td>
+            <td title="last-name">Wilson</td>
+            <td title="phone">7777777777</td>
+            <td title="email">sarahwilson@example.com</td>
+        </tr>
+    </table>
+</root>
